@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chethtrayen/simpleCI/issues"
   },
-  "homepage": "https://github.com/chethtrayen/simpleCI#readme"
+  "homepage": "https://github.com/chethtrayen/simpleCI#readme",
+  "devDependencies": {
+    "jasmine": "^3.3.1"
+  }
 }
