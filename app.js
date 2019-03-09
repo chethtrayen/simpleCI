@@ -1,3 +1,3 @@
-const mutiplication = (a, b) => a*b;
+const mutiplication = (a, b) => a*b
 
 module.exports.mutiplication = mutiplication;
